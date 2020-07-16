@@ -14,12 +14,6 @@ return [
     'type'            => 'mysql',
     // 服务器地址
     'hostname'        => '127.0.0.1',
-    // 数据库名
-//    'database'        => 'sh_cqcde_com',
-//    // 用户名
-//    'username'        => 'sh_cqcde_com',
-//    // 密码
-//    'password'        => 'pLZninC7rtX6Xkji',
 
     'database'        => 'manage',
     // 用户名
